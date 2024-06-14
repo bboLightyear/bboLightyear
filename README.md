@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Bogeun, A junior back-end developer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbolightyear&label=Profile%20views&color=0e75b6&style=flat" alt="bbolightyear" /> </p>
 
-- 🌱 I’m currently learning **spring sts**
+- 🌱 I’m currently learning **JAVA and Web**
 
 - 📝 I regularly write articles on [https://lightyear.tistory.com/](https://lightyear.tistory.com/)
 
